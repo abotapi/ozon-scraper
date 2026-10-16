@@ -1,0 +1,515 @@
+[
+  {
+    "sku": "9000000001",
+    "url": "https://www.ozon.ru/product/naushniki-besprovodnye-sampleaudio-air-pro-9000000001",
+    "title": "Наушники беспроводные SampleAudio Air Pro с шумоподавлением, белые",
+    "brand": "SampleAudio",
+    "price": 4990,
+    "originalPrice": 8990,
+    "discountPercent": 44,
+    "currency": "RUB",
+    "rating": 4.8,
+    "reviewCount": 3120,
+    "questionCount": 85,
+    "availability": "12 ед осталось",
+    "coverImage": "https://ir.example.com/multimedia/9000000001.jpg",
+    "images": [
+      "https://ir.example.com/multimedia/9000000001.jpg",
+      "https://ir.example.com/multimedia/9000000001-2.jpg"
+    ],
+    "description": "Вымышленные беспроводные наушники для примера: активное шумоподавление, до 30 часов работы с кейсом.",
+    "specs": [
+      {
+        "name": "Артикул",
+        "value": "9000000001"
+      },
+      {
+        "name": "Тип",
+        "value": "TWS-наушники"
+      },
+      {
+        "name": "Время работы, ч",
+        "value": "30"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.3"
+      }
+    ],
+    "hashtags": [
+      "#наушники_беспроводные",
+      "#sampleaudio"
+    ],
+    "ratingBreakdown": {
+      "1": 40,
+      "2": 25,
+      "3": 90,
+      "4": 410,
+      "5": 2555
+    },
+    "variants": [
+      {
+        "sku": "9000000001",
+        "title": "SampleAudio Air Pro, белые",
+        "price": 4990,
+        "aspectName": "Цвет",
+        "value": "белый",
+        "availability": "inStock",
+        "link": "https://www.ozon.ru/product/naushniki-besprovodnye-sampleaudio-air-pro-9000000001/"
+      },
+      {
+        "sku": "9000000002",
+        "title": "SampleAudio Air Pro, черные",
+        "price": 5190,
+        "aspectName": "Цвет",
+        "value": "черный",
+        "availability": "inStock",
+        "link": "https://www.ozon.ru/product/naushniki-besprovodnye-sampleaudio-air-pro-9000000002/"
+      }
+    ],
+    "categoryPath": "Электроника > Наушники и аудиотехника > Наушники",
+    "sellerName": "Пример Электроникс",
+    "sellerId": "1000001",
+    "seller": {
+      "sellerId": "1000001",
+      "name": "Пример Электроникс",
+      "link": "https://www.ozon.ru/seller/primer-electronics/",
+      "legalName": null,
+      "registryNumber": null,
+      "rating": 5,
+      "ordersCount": "120 K",
+      "isPremium": true,
+      "price": null,
+      "originalPrice": null,
+      "deliveryText": null,
+      "authorizedSeller": null,
+      "coverImage": null,
+      "productLink": null,
+      "productSku": null
+    },
+    "otherSellersCount": 3,
+    "otherSellersMinPrice": 4790,
+    "buyboxSellers": [
+      {
+        "sellerId": "1000004",
+        "name": "Магазин Образец",
+        "link": "https://www.ozon.ru/seller/1000004/",
+        "legalName": null,
+        "registryNumber": null,
+        "rating": null,
+        "ordersCount": null,
+        "isPremium": false,
+        "price": null,
+        "originalPrice": null,
+        "deliveryText": "Доставим 18 октября",
+        "authorizedSeller": "Проверенный продавец бренда",
+        "coverImage": "https://ir.example.com/multimedia/9000000011.jpg",
+        "productLink": "https://www.ozon.ru/product/naushniki-besprovodnye-sampleaudio-air-pro-9000000011/",
+        "productSku": "9000000011"
+      }
+    ],
+    "reviews": [
+      {
+        "sku": "9000000001",
+        "reviewId": "00000000-0000-4000-8000-000001000001",
+        "authorName": "Анна П.",
+        "score": 5,
+        "comment": "Звук отличный, шумоподавление работает хорошо.",
+        "positive": null,
+        "negative": null,
+        "photos": [],
+        "videos": [
+          "https://ir.example.com/video/9000000001-1/cover.jpg"
+        ],
+        "usefulUp": 14,
+        "usefulDown": 1,
+        "commentsCount": 0,
+        "status": "Опубликован",
+        "publishedAt": 1791000000
+      },
+      {
+        "sku": "9000000001",
+        "reviewId": "00000000-0000-4000-8000-000001000002",
+        "authorName": "Игорь К.",
+        "score": 4,
+        "comment": "Хорошие наушники, кейс немного царапается.",
+        "positive": null,
+        "negative": null,
+        "photos": [],
+        "videos": [],
+        "usefulUp": 6,
+        "usefulDown": 0,
+        "commentsCount": 0,
+        "status": "Опубликован",
+        "publishedAt": 1790500000
+      }
+    ],
+    "scrapedAt": "2026-10-16T08:00:00.000Z",
+    "mainImage": "https://ir.example.com/multimedia/9000000001.jpg",
+    "priceString": "4 990 ₽",
+    "originalPriceString": "8 990 ₽",
+    "videos": [],
+    "sellerInfo": {
+      "sellerId": "1000001",
+      "name": "Пример Электроникс",
+      "link": "https://www.ozon.ru/seller/primer-electronics/",
+      "legalName": null,
+      "registryNumber": null,
+      "rating": 5,
+      "ordersCount": "120 K",
+      "isPremium": true,
+      "price": null,
+      "originalPrice": null,
+      "deliveryText": null,
+      "authorizedSeller": null,
+      "coverImage": null,
+      "productLink": null,
+      "productSku": null
+    },
+    "specifications": [
+      {
+        "name": "Артикул",
+        "value": "9000000001"
+      },
+      {
+        "name": "Тип",
+        "value": "TWS-наушники"
+      },
+      {
+        "name": "Время работы, ч",
+        "value": "30"
+      },
+      {
+        "name": "Bluetooth",
+        "value": "5.3"
+      }
+    ],
+    "reviewsCount": 3120,
+    "questionsCount": 85
+  },
+  {
+    "sku": "9000000101",
+    "url": "https://www.ozon.ru/product/skovoroda-demochef-28-sm-antiprigarnaya-9000000101",
+    "title": "Сковорода DemoChef 28 см, антипригарное покрытие, индукция",
+    "brand": "DemoChef",
+    "price": 1890,
+    "originalPrice": null,
+    "discountPercent": null,
+    "currency": "RUB",
+    "rating": 4.9,
+    "reviewCount": 870,
+    "questionCount": 12,
+    "availability": null,
+    "coverImage": "https://ir.example.com/multimedia/9000000101.jpg",
+    "images": [
+      "https://ir.example.com/multimedia/9000000101.jpg",
+      "https://ir.example.com/multimedia/9000000101-2.jpg"
+    ],
+    "description": "Вымышленная сковорода для примера с антипригарным покрытием, подходит для всех типов плит.",
+    "specs": [
+      {
+        "name": "Артикул",
+        "value": "9000000101"
+      },
+      {
+        "name": "Диаметр, см",
+        "value": "28"
+      },
+      {
+        "name": "Материал",
+        "value": "Алюминий"
+      }
+    ],
+    "hashtags": [
+      "#сковорода",
+      "#demochef"
+    ],
+    "ratingBreakdown": {
+      "1": 10,
+      "2": 8,
+      "3": 22,
+      "4": 130,
+      "5": 700
+    },
+    "variants": [
+      {
+        "sku": "9000000101",
+        "title": "DemoChef 28 см",
+        "price": 1890,
+        "aspectName": "Диаметр",
+        "value": "28 см",
+        "availability": "inStock",
+        "link": "https://www.ozon.ru/product/skovoroda-demochef-28-sm-antiprigarnaya-9000000101/"
+      },
+      {
+        "sku": "9000000102",
+        "title": "DemoChef 24 см",
+        "price": 1590,
+        "aspectName": "Диаметр",
+        "value": "24 см",
+        "availability": "inStock",
+        "link": "https://www.ozon.ru/product/skovoroda-demochef-28-sm-antiprigarnaya-9000000102/"
+      }
+    ],
+    "categoryPath": "Дом и сад > Посуда > Сковороды",
+    "sellerName": "Демо Дом",
+    "sellerId": "1000002",
+    "seller": {
+      "sellerId": "1000002",
+      "name": "Демо Дом",
+      "link": "https://www.ozon.ru/seller/demo-dom/",
+      "legalName": null,
+      "registryNumber": null,
+      "rating": 5,
+      "ordersCount": "48 K",
+      "isPremium": false,
+      "price": null,
+      "originalPrice": null,
+      "deliveryText": null,
+      "authorizedSeller": null,
+      "coverImage": null,
+      "productLink": null,
+      "productSku": null
+    },
+    "otherSellersCount": 0,
+    "otherSellersMinPrice": 0,
+    "buyboxSellers": [],
+    "reviews": [
+      {
+        "sku": "9000000101",
+        "reviewId": "00000000-0000-4000-8000-000101000001",
+        "authorName": "Мария Л.",
+        "score": 5,
+        "comment": "Ничего не пригорает, удобная ручка.",
+        "positive": null,
+        "negative": null,
+        "photos": [],
+        "videos": [
+          "https://ir.example.com/video/9000000101-1/cover.jpg"
+        ],
+        "usefulUp": 9,
+        "usefulDown": 0,
+        "commentsCount": 0,
+        "status": "Опубликован",
+        "publishedAt": 1790800000
+      },
+      {
+        "sku": "9000000101",
+        "reviewId": "00000000-0000-4000-8000-000101000002",
+        "authorName": "Олег С.",
+        "score": 5,
+        "comment": "Подошла для индукционной плиты.",
+        "positive": null,
+        "negative": null,
+        "photos": [],
+        "videos": [],
+        "usefulUp": 3,
+        "usefulDown": 0,
+        "commentsCount": 0,
+        "status": "Опубликован",
+        "publishedAt": 1790200000
+      }
+    ],
+    "scrapedAt": "2026-10-16T08:00:05.000Z",
+    "mainImage": "https://ir.example.com/multimedia/9000000101.jpg",
+    "priceString": "1 890 ₽",
+    "originalPriceString": null,
+    "videos": [],
+    "sellerInfo": {
+      "sellerId": "1000002",
+      "name": "Демо Дом",
+      "link": "https://www.ozon.ru/seller/demo-dom/",
+      "legalName": null,
+      "registryNumber": null,
+      "rating": 5,
+      "ordersCount": "48 K",
+      "isPremium": false,
+      "price": null,
+      "originalPrice": null,
+      "deliveryText": null,
+      "authorizedSeller": null,
+      "coverImage": null,
+      "productLink": null,
+      "productSku": null
+    },
+    "specifications": [
+      {
+        "name": "Артикул",
+        "value": "9000000101"
+      },
+      {
+        "name": "Диаметр, см",
+        "value": "28"
+      },
+      {
+        "name": "Материал",
+        "value": "Алюминий"
+      }
+    ],
+    "reviewsCount": 870,
+    "questionsCount": 12
+  },
+  {
+    "sku": "9000000201",
+    "url": "https://www.ozon.ru/product/kovrik-dlya-yogi-examplefit-6-mm-9000000201",
+    "title": "Коврик для йоги ExampleFit 6 мм, нескользящий",
+    "brand": "ExampleFit",
+    "price": 1290,
+    "originalPrice": 1690,
+    "discountPercent": 24,
+    "currency": "RUB",
+    "rating": 4.6,
+    "reviewCount": 215,
+    "questionCount": 4,
+    "availability": "5 ед осталось",
+    "coverImage": "https://ir.example.com/multimedia/9000000201.jpg",
+    "images": [
+      "https://ir.example.com/multimedia/9000000201.jpg",
+      "https://ir.example.com/multimedia/9000000201-2.jpg"
+    ],
+    "description": null,
+    "specs": [
+      {
+        "name": "Артикул",
+        "value": "9000000201"
+      },
+      {
+        "name": "Толщина, мм",
+        "value": "6"
+      },
+      {
+        "name": "Длина, см",
+        "value": "183"
+      }
+    ],
+    "hashtags": [
+      "#коврик_для_йоги"
+    ],
+    "ratingBreakdown": {
+      "1": 6,
+      "2": 5,
+      "3": 14,
+      "4": 60,
+      "5": 130
+    },
+    "variants": [
+      {
+        "sku": "9000000201",
+        "title": "ExampleFit 6 мм, синий",
+        "price": 1290,
+        "aspectName": "Цвет",
+        "value": "синий",
+        "availability": "inStock",
+        "link": "https://www.ozon.ru/product/kovrik-dlya-yogi-examplefit-6-mm-9000000201/"
+      },
+      {
+        "sku": "9000000202",
+        "title": "ExampleFit 6 мм, серый",
+        "price": 1290,
+        "aspectName": "Цвет",
+        "value": "серый",
+        "availability": "outOfStock",
+        "link": "https://www.ozon.ru/product/kovrik-dlya-yogi-examplefit-6-mm-9000000202/"
+      }
+    ],
+    "categoryPath": "Спорт и отдых > Йога и пилатес > Коврики",
+    "sellerName": "Тестовый Спорт",
+    "sellerId": "1000003",
+    "seller": {
+      "sellerId": "1000003",
+      "name": "Тестовый Спорт",
+      "link": "https://www.ozon.ru/seller/test-sport/",
+      "legalName": null,
+      "registryNumber": null,
+      "rating": 4,
+      "ordersCount": "9 K",
+      "isPremium": false,
+      "price": null,
+      "originalPrice": null,
+      "deliveryText": null,
+      "authorizedSeller": null,
+      "coverImage": null,
+      "productLink": null,
+      "productSku": null
+    },
+    "otherSellersCount": 2,
+    "otherSellersMinPrice": 1240,
+    "buyboxSellers": [
+      {
+        "sellerId": "1000005",
+        "name": "Спорт Пример",
+        "link": "https://www.ozon.ru/seller/1000005/",
+        "legalName": null,
+        "registryNumber": null,
+        "rating": null,
+        "ordersCount": null,
+        "isPremium": false,
+        "price": null,
+        "originalPrice": null,
+        "deliveryText": "Доставим 20 октября",
+        "authorizedSeller": "Проверенный продавец бренда",
+        "coverImage": "https://ir.example.com/multimedia/9000000211.jpg",
+        "productLink": "https://www.ozon.ru/product/kovrik-dlya-yogi-examplefit-6-mm-9000000211/",
+        "productSku": "9000000211"
+      }
+    ],
+    "reviews": [
+      {
+        "sku": "9000000201",
+        "reviewId": "00000000-0000-4000-8000-000201000001",
+        "authorName": "Елена В.",
+        "score": 4,
+        "comment": "Не скользит, но первые дни был запах.",
+        "positive": null,
+        "negative": null,
+        "photos": [],
+        "videos": [
+          "https://ir.example.com/video/9000000201-1/cover.jpg"
+        ],
+        "usefulUp": 5,
+        "usefulDown": 1,
+        "commentsCount": 0,
+        "status": "Опубликован",
+        "publishedAt": 1790900000
+      }
+    ],
+    "scrapedAt": "2026-10-16T08:00:09.000Z",
+    "mainImage": "https://ir.example.com/multimedia/9000000201.jpg",
+    "priceString": "1 290 ₽",
+    "originalPriceString": "1 690 ₽",
+    "videos": [],
+    "sellerInfo": {
+      "sellerId": "1000003",
+      "name": "Тестовый Спорт",
+      "link": "https://www.ozon.ru/seller/test-sport/",
+      "legalName": null,
+      "registryNumber": null,
+      "rating": 4,
+      "ordersCount": "9 K",
+      "isPremium": false,
+      "price": null,
+      "originalPrice": null,
+      "deliveryText": null,
+      "authorizedSeller": null,
+      "coverImage": null,
+      "productLink": null,
+      "productSku": null
+    },
+    "specifications": [
+      {
+        "name": "Артикул",
+        "value": "9000000201"
+      },
+      {
+        "name": "Толщина, мм",
+        "value": "6"
+      },
+      {
+        "name": "Длина, см",
+        "value": "183"
+      }
+    ],
+    "reviewsCount": 215,
+    "questionsCount": 4
+  }
+]

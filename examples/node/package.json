@@ -1,0 +1,6 @@
+{
+  "name": "ozon-scraper-example",
+  "private": true,
+  "type": "module",
+  "dependencies": { "apify-client": "^2.25.0" }
+}
